@@ -3,11 +3,11 @@ body {
 }
 
 hr {
-    background-color: #E3FDFD;
+    background-color: #eaf6f6;
     border-style: dotted;
     border-bottom-style: none;
     border-width: 10px;
-    border-color: #71C9CE;
+    border-color: #71c9ce;
     height: 0px;
     width: 5%;
 }
